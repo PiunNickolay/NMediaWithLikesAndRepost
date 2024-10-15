@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NMediaWithWall</string>
+    <string name="description_post_author_avatar">Post author avatar</string>
+    <string name="description_post_menu">Menu</string>
+    <string name="description_post_like">Like</string>
+    <string name="description_post_views">Views</string>
+    <string name="description_post_share">Shares</string>
+    <string name="likes">100</string>
+    <string name="reposts">10</string>
+    <string name="views">1000</string>
+</resources>
