@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NMediaWithWall"
+rootProject.name = "WallWithLikes"
 include ':app'
