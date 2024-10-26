@@ -119,12 +119,11 @@
         android:id="@+id/view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="190dp"
         android:layout_marginTop="@dimen/margin"
         android:background="@android:color/transparent"
         android:contentDescription="@string/description_post_views"
         android:src="@drawable/ic_eye"
-        app:layout_constraintStart_toEndOf="@id/shares"
+        app:layout_constraintEnd_toStartOf="@id/views"
         app:layout_constraintTop_toTopOf="@id/barrierHeader2" />
 
     <TextView
@@ -133,7 +132,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/starts"
         android:layout_marginTop="@dimen/margin"
-        app:layout_constraintStart_toEndOf="@id/view"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@id/barrierHeader2"
         tools:text="@string/views" />
 
