@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NMediaWithWall</string>
+    <string name="app_name">WallWithLikes</string>
     <string name="description_post_author_avatar">Post author avatar</string>
     <string name="description_post_menu">Menu</string>
     <string name="description_post_like">Like</string>

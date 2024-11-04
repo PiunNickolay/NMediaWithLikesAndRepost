@@ -1,4 +1,4 @@
-package ru.netology.nmediawithwall.dto
+package ru.netology.wallwithlikes.dto
 
 data class Post(
     val id:Long,
